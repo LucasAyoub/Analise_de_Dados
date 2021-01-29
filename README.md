@@ -10,4 +10,4 @@
 
 ## Observação:
 
-* Antes de rodar o gráfico, crie uma pasta chamada plots e dentro dela as pastas plots/Analise1, Analise3 e Analise4 no mesmo diretório onde você baixou os arquivos, fazendo o salvamento das imagens nas mesmas
+* Antes de rodar o gráfico, crie uma pasta chamada plots e dentro dela as pastas plots/Analise1, Analise3 e Analise4 no mesmo diretório onde você baixou os arquivos, fazendo assim o salvamento das imagens nas mesmas
