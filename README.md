@@ -10,4 +10,4 @@
 
 ## Observation:
 
-* Before running the graph, create a folder called plots and within it the folders plots/Analysis1, Analyze3 and Analyze4 in the same directory where you downloaded the files, saving the images in them
+* Before running the graph, create a folder called plots and within it the folders plots/Analise1, Analise3 e Analise4 in the same directory where you downloaded the files, saving the images in them
