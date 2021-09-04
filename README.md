@@ -1,13 +1,13 @@
-# Análise De Dados
+# Data analysis
 
-## Processos:
+## Processes:
 
-* 1°: Problema a ser Resolvido
-* 2°: Preparação e Exploração dos Dados
-* 3°: Criação do Modelo
-* 4°: Apresentação do Resultado
-* 5°: Automatizar o Processo
+* 1st: Problem to be solved
+* 2nd: Data Preparation and Exploitation
+* 3rd: Model Creation
+* 4th: Results Presentation
+* 5th: Automate the Process
 
-## Observação:
+## Observation:
 
-* Antes de rodar o gráfico, crie uma pasta chamada plots e dentro dela as pastas plots/Analise1, Analise3 e Analise4 no mesmo diretório onde você baixou os arquivos, fazendo assim o salvamento das imagens nas mesmas
+* Before running the graph, create a folder called plots and within it the folders plots/Analysis1, Analyze3 and Analyze4 in the same directory where you downloaded the files, saving the images in them
